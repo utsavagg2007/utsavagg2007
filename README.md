@@ -4,17 +4,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=Utsav%20Aggarwal&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Builder%20%C2%B7%20Applied%20AI%20%26%20Full-Stack%20Engineer&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366F1,50:8B5CF6,100:EC4899&amp;height=200&amp;section=header&amp;text=Utsav%20Aggarwal&amp;fontSize=56&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Builder%20%C2%B7%20Applied%20AI%20%26%20Full-Stack%20Engineer&amp;descSize=18&amp;descAlignY=58" width="100%" />
 
 <a href="https://github.com/utsavagg2007">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Full-Stack+%2B+Applied+AI+Engineer;Shipping+AI+agents%2C+RAG+systems+%26+automations;Turning+ambitious+ideas+into+real%2C+shipped+products;ECE+%40+NSUT+%E2%80%99+28+%E2%80%A2+Hardware+roots%2C+Software+obsession;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2600&amp;pause=900&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Full-Stack+%2B+Applied+AI+Engineer;Shipping+AI+agents%2C+RAG+systems+%26+automations;Turning+ambitious+ideas+into+real%2C+shipped+products;ECE+%40+NSUT+%E2%80%99+28+%E2%80%A2+Hardware+roots%2C+Software+obsession;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/utsav-aggarwal-419611326"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:work.utsav200@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=utsavagg2007&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+<a href="https://www.linkedin.com/in/utsav-aggarwal-419611326"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="mailto:work.utsav200@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=utsavagg2007&amp;style=for-the-badge&amp;color=8B5CF6&amp;label=PROFILE+VIEWS" />
 
 </div>
 
@@ -140,12 +140,12 @@ A clean, deployed Node.js/Express backend powering an AI image application — s
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=utsavagg2007&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9&bg_color=0d1117" />
-<img height="180" src="https://streak-stats.demolab.com/?user=utsavagg2007&hide_border=true&background=0d1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=utsavagg2007&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=8B5CF6&amp;icon_color=EC4899&amp;text_color=c9d1d9&amp;bg_color=0d1117" />
+<img height="180" src="https://streak-stats.demolab.com/?user=utsavagg2007&amp;hide_border=true&amp;background=0d1117&amp;ring=8B5CF6&amp;fire=EC4899&amp;currStreakLabel=8B5CF6&amp;sideLabels=c9d1d9&amp;dates=8b949e&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavagg2007&layout=compact&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavagg2007&amp;layout=compact&amp;hide_border=true&amp;title_color=8B5CF6&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;langs_count=8" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=utsavagg2007&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=utsavagg2007&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=8" width="100%" />
 
 </div>
 
@@ -166,15 +166,15 @@ I'm always up for talking about **startups, applied AI, automation, or building 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/utsav-aggarwal-419611326"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/utsav-aggarwal-419611326"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
 <a href="mailto:work.utsav200@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" />
 </a>
-<a href="https://github.com/utsavagg2007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/utsavagg2007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:EC4899,50:8B5CF6,100:6366F1&amp;height=120&amp;section=footer" width="100%" />
 
 <i>Thanks for stopping by — now go build something. ⚡</i>
 
