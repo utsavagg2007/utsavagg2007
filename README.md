@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366F1,50:8B5CF6,100:EC4899&amp;height=200&amp;section=header&amp;text=Utsav%20Aggarwal&amp;fontSize=56&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Builder%20%C2%B7%20Applied%20AI%20%26%20Full-Stack%20Engineer&amp;descSize=18&amp;descAlignY=58" width="100%" />
 
 <a href="https://github.com/utsavagg2007">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2600&amp;pause=900&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Full-Stack+%2B+Applied+AI+Engineer;Shipping+AI+agents%2C+RAG+systems+%26+automations;Turning+ambitious+ideas+into+real%2C+shipped+products;ECE+%40+NSUT+%E2%80%99+28+%E2%80%A2+Hardware+roots%2C+Software+obsession;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2600&amp;pause=900&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Full-Stack+Applied+AI+Engineer;Building+AI+Agents+and+RAG+Systems;React+%7C+Next.js+%7C+FastAPI+%7C+Node.js;ECE+at+NSUT+2028;Always+Building" alt="Typing SVG"/>
 </a>
 
 <br/>
