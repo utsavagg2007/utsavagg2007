@@ -167,7 +167,9 @@ I'm always up for talking about **startups, applied AI, automation, or building 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/utsav-aggarwal-419611326"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:work.utsav200@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:work.utsav200@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 <a href="https://github.com/utsavagg2007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
